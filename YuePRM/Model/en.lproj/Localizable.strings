@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  YuePRM
+
+  Created by yueming on 2024/4/23.
+  
+*/
+
+"LANGUAGE" = "en";
+"Contact" = "Contact";
+"Contacts" = "Contacts";
+"Activity" = "Activity";
+"Activities" = "Activities";
+"Event" = "Event";
+"Events" = "Events";

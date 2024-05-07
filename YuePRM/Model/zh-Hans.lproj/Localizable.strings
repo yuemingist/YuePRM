@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  YuePRM
+
+  Created by yueming on 2024/4/23.
+  
+*/
+
+"LANGUAGE" = "zh";
+"Contact" = "人物";
+"Contacts" = "人物";
+"Activity" = "动态";
+"Activities" = "动态";
+"Event" = "日程";
+"Events" = "日程";
